@@ -65,6 +65,17 @@ import {
   ];
   
   const experiences = [
+      {
+      title: "Master's in Robotics",
+      company_name: "Northeastern University",
+      icon: northeastern,
+      iconBg: "#C4C4C4",
+      date: "September 2025 - May 2027",
+      points: [
+        "Currently maintaining GPA of 4.0/4.0",
+        "Taken courses in Mobile Robotics, Sensors & Navigation, Control Systems, and Nautral Language Processing",
+      ],
+    },
     {
       title: "Bachelor's in Computer Science",
       company_name: "Northeastern University",
